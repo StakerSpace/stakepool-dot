@@ -1,0 +1,1 @@
+# stakepool-dot
